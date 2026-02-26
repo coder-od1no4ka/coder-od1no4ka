@@ -2,10 +2,6 @@
   <img src="head.gif" alt="Header" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="hamster-wave.gif" width="200" alt="Hey there!"/>
-</p>
-
 <h1 align="center">Привет! Hello! 👋</h1>
 <h3 align="center">🇷🇺 Роман | Roman 🇬🇧</h3>
 <p align="center">
