@@ -97,7 +97,7 @@ Hi! I'm **Roman** — a Fullstack developer from Taganrog, Russia.
   <a href="https://t.me/coder_od1no4ka" target="_blank"><img src="https://img.shields.io/badge/Telegram-coder_od1no4ka-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://t.me/kanal_od1no4ka" target="_blank"><img src="https://img.shields.io/badge/Channel-No_Code_No_Life-6366f1?style=flat-square&logo=telegram&logoColor=white" alt="Channel"/></a>
   <a href="https://kwork.ru/user/coder_od1no4ka" target="_blank"><img src="https://img.shields.io/badge/Kwork-Профиль-ff6b35?style=flat-square" alt="Kwork"/></a>
-  <a href="https://vk.com/coder_od1no4ka" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white" alt="VK"/></a>
+  <a href="https://t.me/od1no4kabot" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Portfolio Bot — портфолио, цены, заказ"/></a>
 </p>
 
 ---
