@@ -114,7 +114,3 @@ Hi! I'm **Roman** — a Fullstack developer from Taganrog, Russia.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" alt="Footer"/>
-</p>
