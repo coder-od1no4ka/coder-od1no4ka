@@ -2,6 +2,10 @@
   <img src="head.gif" alt="Header" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="hamster-wave.gif" width="200" alt="Hey there!"/>
+</p>
+
 <h1 align="center">Привет! Hello! 👋</h1>
 <h3 align="center">🇷🇺 Роман | Roman 🇬🇧</h3>
 <p align="center">
@@ -36,7 +40,6 @@
 - 💻 Разрабатываю **сайты**, **Telegram-ботов** и **мобильные приложения** под заказ
 - 🤖 Специализация: aiogram, Pyrogram, Flutter, веб-разработка
 - ⚡ В свободное время изучаю новые технологии и современную литературу
-- 📍 Таганрог → ЮФУ
 
 **Услуги:** лендинги, многостраничные сайты, веб-приложения, Telegram-боты, мобильные приложения (Flutter), SEO-оптимизация.
 
@@ -51,7 +54,6 @@ Hi! I'm **Roman** — a Fullstack developer from Taganrog, Russia.
 - 💻 I develop **websites**, **Telegram bots**, and **mobile apps** on demand
 - 🤖 Specializing in: aiogram, Pyrogram, Flutter, web development
 - ⚡ In my free time I explore new technologies and read modern literature
-- 📍 Taganrog → SFEDU
 
 **Services:** landing pages, multi-page websites, web applications, Telegram bots, mobile apps (Flutter), SEO optimization.
 
@@ -108,7 +110,7 @@ Hi! I'm **Roman** — a Fullstack developer from Taganrog, Russia.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coder-od1no4ka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-od1no4ka&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=coder-od1no4ka&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak" width="400"/>
 </p>
 
 <p align="center">
