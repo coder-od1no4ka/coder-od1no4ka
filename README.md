@@ -1,74 +1,110 @@
+<!-- Custom artwork and source-price notes: assets/CREDITS.md -->
 <p align="center">
-  <a href="https://od1no4ka.ru">
-    <img src="assets/profile-hero.png" width="100%" alt="Роман · OD1NO4ka — Разработчик, не конвейер. Сайты, боты и приложения: от идеи до запуска." />
-  </a>
+  <a href="https://od1no4ka.ru"><img src="assets/hero-burgundy.png" width="100%" alt="Роман · OD1NO4ka. Разработчик, не конвейер. Сайты, боты, приложения — от идеи до работающего продукта." /></a>
 </p>
 
 <p align="center">
-  <a href="https://od1no4ka.ru"><img src="https://img.shields.io/badge/Портфолио-od1no4ka.ru-C4213F?style=for-the-badge" alt="Смотреть портфолио" /></a>
-  <a href="https://t.me/coder_od1no4ka"><img src="https://img.shields.io/badge/Обсудить_проект-140C0E?style=for-the-badge&amp;logo=telegram&amp;logoColor=E8264A" alt="Обсудить проект в Telegram" /></a>
-  <a href="https://kwork.ru/user/coder_od1no4ka"><img src="https://img.shields.io/badge/Kwork-140C0E?style=for-the-badge&amp;logoColor=E8264A" alt="Заказать на Kwork" /></a>
+  <a href="https://od1no4ka.ru"><img src="https://img.shields.io/badge/ПОРТФОЛИО-OD1NO4ka-7E2545?style=for-the-badge&amp;labelColor=24121B&amp;logo=googlechrome&amp;logoColor=DC7B9B" alt="Смотреть сайт" /></a>
+  <a href="https://t.me/coder_od1no4ka"><img src="https://img.shields.io/badge/TELEGRAM-ОБСУДИТЬ_ПРОЕКТ-7E2545?style=for-the-badge&amp;labelColor=24121B&amp;logo=telegram&amp;logoColor=DC7B9B" alt="Обсудить проект в Telegram" /></a>
+  <a href="https://kwork.ru/user/coder_od1no4ka"><img src="https://img.shields.io/badge/KWORK-ОТЗЫВЫ-7E2545?style=for-the-badge&amp;labelColor=24121B" alt="Профиль и отзывы на Kwork" /></a>
 </p>
 
 <p align="center">
-  <a href="#обо-мне">Обо мне</a> &nbsp; / &nbsp;
-  <a href="#что-разрабатываю">Направления</a> &nbsp; / &nbsp;
-  <a href="#технологии">Технологии</a> &nbsp; / &nbsp;
+  <a href="#about">Обо мне</a> &nbsp; / &nbsp;
+  <a href="#services">Направления</a> &nbsp; / &nbsp;
+  <a href="#stack">Стек</a> &nbsp; / &nbsp;
+  <a href="#prices">Цены</a> &nbsp; / &nbsp;
   <a href="#english">English</a>
 </p>
 
-## Обо мне
+<br />
 
-Я **Роман**, fullstack-разработчик. Делаю сайты, ботов и приложения под задачу: продумываю интерфейс, пишу frontend и backend, подключаю интеграции и довожу продукт до запуска.
+<a id="about"></a>
+<img src="assets/section-about.png" width="100%" alt="01 — Немного обо мне" />
 
-Работаю напрямую: со мной можно обсудить идею, посмотреть промежуточный результат и решить, что делать дальше.
+Я **Роман**, fullstack-разработчик. Создаю сайты, ботов и приложения: от интерфейса до серверной логики, интеграций и запуска.
+
+**Работаю напрямую.** Разбираюсь в задаче, показываю результат по ходу разработки и довожу проект до рабочего состояния. Со мной можно обсудить и новый продукт, и доработку существующего.
 
 Учусь в **ЮФУ, ИКТИБ** на направлении «Информационная безопасность автоматизированных систем».
 
-> **Один проект — целиком.** От первого разговора и прототипа до работающего продукта.
+> **Один проект — целиком.** Идея → интерфейс → frontend и backend → запуск.
 
-## Что разрабатываю
+<br />
 
-| Направление | Чем могу помочь |
-| :--- | :--- |
-| **Сайты и веб-сервисы** | Лендинги, корпоративные сайты, интернет-магазины, личные кабинеты и веб-приложения |
-| **Боты и Mini Apps** | Telegram, MAX, VK, WhatsApp и Discord: заявки, запись, платежи, рассылки, CRM и админки |
-| **Мобильные приложения** | Приложения на Flutter для iOS и Android |
-| **Софт и автоматизация** | Парсеры, обработка данных и видео, интеграции с API и инструменты для повседневных задач |
-| **Развитие проекта** | Доработка, редизайн, SEO-оптимизация, размещение на хостинге и поддержка |
+<a id="services"></a>
+<img src="assets/section-services.png" width="100%" alt="02 — Что могу сделать" />
 
-**Стоимость зависит от задачи.** Актуальные цены и калькулятор — [на сайте →](https://od1no4ka.ru/#prices). После обсуждения согласуем объём, стоимость и сроки до старта.
+<a href="https://od1no4ka.ru/works"><img src="assets/service-cards.png" width="100%" alt="Сайты и веб-сервисы: лендинги, магазины, личные кабинеты. Боты и Mini Apps: Telegram, MAX, VK, WhatsApp, Discord. Приложения: iOS и Android на Flutter, мини-игры. Софт и автоматизация: парсеры, API, обработка данных и видео." /></a>
 
-## Технологии
+**Уже есть проект?** Помогу с доработкой, редизайном, SEO-оптимизацией, размещением и поддержкой.
 
-<p>
-  <img src="https://img.shields.io/badge/React-140C0E?style=for-the-badge&amp;logo=react&amp;logoColor=E8264A" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-140C0E?style=for-the-badge&amp;logo=javascript&amp;logoColor=E8264A" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-140C0E?style=for-the-badge&amp;logo=html5&amp;logoColor=E8264A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-140C0E?style=for-the-badge&amp;logoColor=E8264A" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vite-140C0E?style=for-the-badge&amp;logo=vite&amp;logoColor=E8264A" alt="Vite" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-140C0E?style=for-the-badge&amp;logo=python&amp;logoColor=E8264A" alt="Python" />
-  <img src="https://img.shields.io/badge/aiogram-140C0E?style=for-the-badge&amp;logo=telegram&amp;logoColor=E8264A" alt="aiogram" />
-  <img src="https://img.shields.io/badge/Pyrogram-140C0E?style=for-the-badge&amp;logo=telegram&amp;logoColor=E8264A" alt="Pyrogram" />
-  <img src="https://img.shields.io/badge/SQLite-140C0E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=E8264A" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Flutter-140C0E?style=for-the-badge&amp;logo=flutter&amp;logoColor=E8264A" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Git-140C0E?style=for-the-badge&amp;logo=git&amp;logoColor=E8264A" alt="Git" />
-</p>
+[Смотреть работы ↗](https://od1no4ka.ru/works)
 
-## Как работаю
+<br />
 
-**01 · Разбираемся в задаче**  
-Обсуждаем цель, примеры и нужные функции. Договариваемся об объёме, стоимости и сроках.
+<a id="stack"></a>
+<img src="assets/section-stack.png" width="100%" alt="03 — Мой инструментарий" />
 
-**02 · Собираем продукт**  
-Проектирую интерфейс, разрабатываю функциональность и показываю результат по ходу работы.
+<img src="assets/tech-stack.png" width="100%" alt="React · Vite · JavaScript · HTML5 · CSS3 · Python · Flutter · Dart · SQLite · Git" />
 
-**03 · Проверяем и запускаем**  
-Тестируем основные сценарии, размещаем проект и обсуждаем дальнейшую поддержку.
+**Для ботов:** aiogram и Pyrogram. **Для связи между сервисами:** API, интеграции, автоматизация.
 
-## English
+<br />
+
+<a id="prices"></a>
+<img src="assets/section-prices.png" width="100%" alt="04 — Честные цены, без агентской наценки" />
+
+Стоимость **от** — за базовый объём. Точную цену и сроки согласуем после обсуждения задачи, до начала работы.
+
+<a href="https://od1no4ka.ru/#prices"><img src="assets/price-sites.png" width="100%" alt="Сайты: лендинг от 8 000 ₽; сайт-визитка от 18 000 ₽; корпоративный сайт от 35 000 ₽; интернет-магазин от 45 000 ₽; веб-приложение от 60 000 ₽; доработка / редизайн от 3 000 ₽." /></a>
+
+<a href="https://od1no4ka.ru/#prices"><img src="assets/price-bots.png" width="100%" alt="Боты: FAQ от 5 000 ₽; заявки и запись от 10 000 ₽; рассылки от 15 000 ₽; магазин с оплатой от 20 000 ₽; админка и CRM от 30 000 ₽; Telegram Mini App от 40 000 ₽; MAX / VK / WhatsApp / Discord от 12 000 ₽." /></a>
+
+<a href="https://od1no4ka.ru/#prices"><img src="assets/price-apps.png" width="100%" alt="Приложения и софт: мобильное приложение от 80 000 ₽; игра / кликер от 40 000 ₽; парсер / скрипт от 8 000 ₽; сложный софт от 60 000 ₽." /></a>
+
+<img src="assets/price-extras.png" width="100%" alt="Дополнительно: дизайн с нуля +30%; домен, хостинг и запуск от 2 000 ₽; поддержка от 3 000 ₽ в месяц; срочно +40%." />
+
+**SEO-база — от 5 000 ₽.** Остальные функции и интеграции можно выбрать в [калькуляторе на сайте ↗](https://od1no4ka.ru/#prices).
+
+<details>
+<summary><b>Весь прайс текстом / Price list</b></summary>
+
+| Услуга | Стоимость |
+| :--- | ---: |
+| Лендинг | от 8 000 ₽ |
+| Сайт-визитка | от 18 000 ₽ |
+| Корпоративный сайт | от 35 000 ₽ |
+| Интернет-магазин | от 45 000 ₽ |
+| Веб-приложение / сервис | от 60 000 ₽ |
+| Доработка / редизайн | от 3 000 ₽ |
+| Бот-визитка / FAQ | от 5 000 ₽ |
+| Бот для заявок и записи | от 10 000 ₽ |
+| Рассылки / воронка продаж | от 15 000 ₽ |
+| Бот с оплатой / магазин | от 20 000 ₽ |
+| Бот с админкой и CRM | от 30 000 ₽ |
+| Telegram Mini App | от 40 000 ₽ |
+| Боты MAX / VK / WhatsApp / Discord | от 12 000 ₽ |
+| Мобильное приложение | от 80 000 ₽ |
+| Игра / кликер | от 40 000 ₽ |
+| Парсер / скрипт автоматизации | от 8 000 ₽ |
+| Сложный софт | от 60 000 ₽ |
+
+Дизайн с нуля — **+30%** · Домен, хостинг и запуск — **от 2 000 ₽** · Поддержка — **от 3 000 ₽/мес** · Срочно — **+40%**.
+
+Источник цен: [прайс сайта](https://od1no4ka.ru/#prices).
+
+</details>
+
+<br />
+
+<img src="assets/section-process.png" width="100%" alt="05 — От сообщения до запуска" />
+
+<img src="assets/process-cards.png" width="100%" alt="01 Обсуждаем: цель, функции, примеры, объём и стоимость. 02 Разрабатываю: интерфейс, код, интеграции, показываю работу по ходу. 03 Запускаем: проверяем, размещаем и обсуждаем поддержку." />
+
+<br />
+
+<a id="english"></a>
 
 <details>
 <summary><b>About me &amp; services</b></summary>
@@ -93,32 +129,28 @@ I work directly with clients and share progress throughout development. Scope, p
 
 </details>
 
-## GitHub
 
 <details>
-<summary><b>Статистика и активность / Stats &amp; activity</b></summary>
+<summary><b>GitHub / Статистика и активность</b></summary>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-od1no4ka&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0708&amp;title_color=E8264A&amp;icon_color=C4213F&amp;text_color=F5ECE8" alt="Статистика GitHub" width="440" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-od1no4ka&amp;show_icons=true&amp;hide_border=true&amp;bg_color=100A0D&amp;title_color=DC7B9B&amp;icon_color=DC7B9B&amp;text_color=F7EEF0" alt="Статистика GitHub" width="460" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-od1no4ka&amp;bg_color=0d0708&amp;color=f5ece8&amp;line=c4213f&amp;point=e8264a&amp;area=true&amp;hide_border=true" alt="График активности GitHub" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-od1no4ka&amp;bg_color=100a0d&amp;color=c1a8b3&amp;line=7e2545&amp;point=dc7b9b&amp;area=true&amp;hide_border=true" alt="График активности GitHub" width="100%" />
 </p>
 
 </details>
 
----
+<br />
 
-<p align="center"><strong>Есть идея? Давай превратим её в работающий проект.</strong></p>
+<a href="https://t.me/coder_od1no4ka"><img src="assets/contact-banner.png" width="100%" alt="Есть идея? Давай обсудим. Написать Роману в Telegram." /></a>
 
 <p align="center">
-  <a href="https://t.me/coder_od1no4ka">Написать в Telegram ↗</a> &nbsp; · &nbsp;
-  <a href="https://od1no4ka.ru/works">Смотреть работы</a> &nbsp; · &nbsp;
-  <a href="https://kwork.ru/user/coder_od1no4ka">Отзывы на Kwork</a>
-</p>
-<p align="center">
+  <a href="https://od1no4ka.ru">Портфолио ↗</a> &nbsp; · &nbsp;
   <a href="https://t.me/kanal_od1no4ka">No Code No Life — проекты и заметки</a> &nbsp; · &nbsp;
   <a href="https://t.me/od1no4kabot">Бот-портфолио</a>
 </p>
